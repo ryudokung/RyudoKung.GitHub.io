@@ -13,4 +13,3 @@ Follow me
 | ---- | ---- |
 | github | https://github.com/ryudokung |
 | gitlab | https://gitlab.com/ryudokun |
-| ---- | ---- |
